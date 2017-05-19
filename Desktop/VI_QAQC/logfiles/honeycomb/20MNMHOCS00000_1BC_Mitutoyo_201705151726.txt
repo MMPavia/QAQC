@@ -1,0 +1,1 @@
+Mean: NaN	Std Dev: -0.000000	Max: 0.000000	Min: 0.000000	
