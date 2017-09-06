@@ -1,0 +1,4 @@
+Left Side (GOhm):
+206
+Right Side (GOhm):
+254
