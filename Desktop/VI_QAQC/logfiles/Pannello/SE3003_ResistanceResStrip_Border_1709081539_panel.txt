@@ -1,0 +1,4 @@
+Left Side (MOhm):
+P1:  P2:  P3:  P4:  P5: 
+Right Side (MOhm):
+P1:  P2:  P3:  P4:  P5: 

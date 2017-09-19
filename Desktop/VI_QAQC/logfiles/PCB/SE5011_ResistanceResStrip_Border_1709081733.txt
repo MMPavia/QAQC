@@ -1,0 +1,4 @@
+Left Side (MOhm):
+P1:  P2: 0.8 P3: 0.8 P4: 0.9 P5: 0.7
+Right Side (MOhm):
+P1: 1.2 P2: 0.6 P3: 0.5 P4: 0.5 P5: 0.5
