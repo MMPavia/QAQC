@@ -1,0 +1,8 @@
+Meas1 (GOhm):
+29.6
+Meas2 (GOhm):
+27.6
+Meas3 (GOhm):
+29.4
+Meas4 (GOhm):
+26.4
