@@ -1,0 +1,7 @@
+PCB internal:
+0.57
+PCB intermediate:
+0.56
+PCB external:
+0.55
+humidity 60%
