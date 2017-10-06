@@ -1,0 +1,9 @@
+Meas1 (GOhm):
+15.5
+Meas2 (GOhm):
+18.8
+Meas3 (GOhm):
+13.3
+Meas4 (GOhm):
+16.8
+humidity 67%, temp 20 degrees. The first meas on DX was below 1 GOhm, so I cut the resistive line.

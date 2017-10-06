@@ -1,0 +1,9 @@
+Meas1 (GOhm):
+29.2
+Meas2 (GOhm):
+23.6
+Meas3 (GOhm):
+41.2
+Meas4 (GOhm):
+32.6
+humidity 66%, temp 20 degrees, cut resistive line on DX side

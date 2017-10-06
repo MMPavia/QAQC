@@ -1,0 +1,4 @@
+Missing Pillars:
+all ok
+Other Problems:
+silverline reparation glue creates thickness

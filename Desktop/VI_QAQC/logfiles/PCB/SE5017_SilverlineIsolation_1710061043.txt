@@ -1,0 +1,5 @@
+Left Side (GOhm):
+64
+Right Side (GOhm):
+76.5
+humidity 67%, temp 20 degrees

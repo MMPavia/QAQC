@@ -1,0 +1,5 @@
+Left Side (GOhm):
+16.6
+Right Side (GOhm):
+21
+humidity 66%, temp 20 degrees, dust removed with rullo

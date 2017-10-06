@@ -1,0 +1,5 @@
+Left Side (MOhm):
+P1:  P2: 0.8 P3: 0.7 P4: 0.9 P5: 1.6
+Right Side (MOhm):
+P1: 2.1 P2: 0.77 P3: 0.6 P4: 0.7 P5: 0.9
+humidity 67%, temp 20 degrees
