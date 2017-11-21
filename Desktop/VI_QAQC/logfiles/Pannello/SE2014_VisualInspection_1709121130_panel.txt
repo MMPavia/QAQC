@@ -1,0 +1,4 @@
+Missing Pillars:
+All ok.
+Other Problems:
+Right side: White spot on coverlay (seems like coverlay is lifted and a part of it cut)

@@ -1,0 +1,5 @@
+Left Side (MOhm):
+P1: 2.2 P2: 0.9 P3: 0.85 P4: 1.03 P5: 3.9
+Right Side (MOhm):
+P1: 2.14 P2: 1 P3: 0.86 P4: 0.81 P5: 0.9
+il punto SX era quasi tutto fuori.

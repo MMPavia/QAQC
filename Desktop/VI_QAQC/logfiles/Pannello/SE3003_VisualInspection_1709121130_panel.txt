@@ -1,0 +1,5 @@
+Missing pillars: 
+All ok.
+Other Problems:
+Left side: Coverlay raised on border of PCB
+

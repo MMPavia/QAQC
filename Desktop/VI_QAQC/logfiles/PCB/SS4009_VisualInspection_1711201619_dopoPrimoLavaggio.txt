@@ -1,0 +1,15 @@
+Missing Pillars:
+Before washing:
+A-4: 1 missing pillar
+
+
+After washing before roller:
+A-4: 1 missing pillar confirmed
+
+After roller:
+No further observations.
+Other Problems:
+Before washing: A scratch on the active area B-2. Looks like the kapton is lifted.
+QA/QC paper mentions enclosures that were polished away on area A-1.
+After washing:
+Soap/Salt residue on active area. Needs to be re-washed.

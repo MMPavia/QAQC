@@ -1,0 +1,9 @@
+Meas1 (GOhm):
+48.8
+Meas2 (GOhm):
+55
+Meas3 (GOhm):
+56
+Meas4 (GOhm):
+64.5
+During the three last days we had between 30 and 40% RH

@@ -1,9 +1,9 @@
 Meas1 (GOhm):
-9.2
+14.9
 Meas2 (GOhm):
-11.5
+11.0
 Meas3 (GOhm):
-7.5
+16.2
 Meas4 (GOhm):
-11.9
-humidity 67%, temp 20 degrees
+10.6
+humidity 59%, temp 20 degrees

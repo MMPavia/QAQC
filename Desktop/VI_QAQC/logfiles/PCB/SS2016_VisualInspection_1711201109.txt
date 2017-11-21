@@ -1,0 +1,15 @@
+Missing Pillars:
+Before Washing:
+A4: 2 pillars
+A2: 1 pillar
+After washing:
+A4: 2 pillars confirmed
+A2: 4 in row, 2 in row, 1 (all close to edge, close to the second raw); 
+B1: 1 + 1 
+C2: 1
+D1: 1 + 1 + 2 in row + 3 in row + 2 in row (close to edge, close to a second row) +  1
+A-3 1 + 1 (lost after electrostatic roller)!!! 
+
+Note: the other listed missing pillar were not observed before roller. 
+Other Problems:
+

@@ -1,0 +1,19 @@
+Missing Pillars:
+Before Washing:
+D-2: 1 pillar
+D-3: 1+1  pillars
+C-4: 1 pillar
+D2: 1 pillar
+A2: 1 pillar (only this one reported by CERN)
+
+After washing before roller:
+D-2: 1 pillar
+D-3: 1 + 1 (close to edge, close to other row)
+A-1: 2 in row (close to edge, close to other row)
+D2 : 1 pillar
+A2: 1 pillar
+C-4: 1 close to coverlay
+
+After roller no additional missing pillar
+Other Problems:
+
