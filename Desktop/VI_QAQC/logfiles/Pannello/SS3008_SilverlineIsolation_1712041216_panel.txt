@@ -1,0 +1,5 @@
+Left Side (GOhm):
+1000
+Right Side (GOhm):
+1000
+Shifters: Gabri+Athina RH: 29%

@@ -1,0 +1,5 @@
+Left Side (MOhm):
+P1:  P2: 0.85 P3: 0.76 P4: 1.28 P5: 2.7
+Right Side (MOhm):
+P1: 1.5 P2: 1.6 P3: 1.1 P4: 0.8 P5: 0.8
+23/11 RH 48%

@@ -1,0 +1,30 @@
+Missing Pillars:
+Before washing:
+A-3: 1 missing pillar
+B+2: 1 missing pillar
+B+3: 1 missing pillar
+B-1: 1 pillar displaced
+D+4: 1 pillar displaced + 1 missing pillar
+C-5: 1 missing pillar
+D-4: 2 missing pillars
+
+After washing before roller:
+D-4: confirmed
+D-5: 1 missing pillar
+A-3: confirmed
+C-5: confirmed
+B-1: confirmed
+D+2: 1 missing pillar
+D+4: confirmed
+C+1: 1 pillar dsiplaced
+B+2: confirmed
+B+3: confirmed
+Other Problems:
+CERN observations:
+interrupted Cu strips 
+-1C: interconnection hole mispalced to left by 200um
+-6D: bubbles  under coverlay close to silverline
+4B, -1C, -3B: pillars reglued
+
+After washing:
+D+4: some salt/soap residues

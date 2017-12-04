@@ -1,0 +1,33 @@
+Missing Pillars:
+Before washing:
+C+2: 1 missing pillar
+B+2: 1 missing pillar
+B+1: 1 missing pillar
+C-1: 1 missing pillar
+B-1: 1 missing pillar
+A-1: 1 missing pillar 
+
+After washing before roller:
+B-1: confirmed
+A-1: confirmed
+A-2: 1 missing pillar
+C+2: confirmed
+B+2: 1 confirmed + 1 missing
+B+1: confirmed
+A+1: 1 missing
+A+3: 1 missing
+
+After roller:
+No further observations
+Other Problems:
+CERN observations:
+Interrupted Cu  strips repaird at CERN
+-3A: some bubbles at coverlay
+pillars reglued at 1C, 2A, -1D, 2C
+
+Before washing:
+Pillars non-parallel
+
+After washing:
+C-1: blue hair-like mark on top of resistive strips
+D left side: some water residues

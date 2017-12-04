@@ -1,0 +1,5 @@
+Left Side (MOhm):
+P1: 2.3 P2: 0.6 P3: 0.7 P4: 0.9 P5: 1.8
+Right Side (MOhm):
+P1: 1.4 P2: 0.8 P3: 0.7 P4: 0.7 P5: 1.5
+Shifters: Gabri+Athina

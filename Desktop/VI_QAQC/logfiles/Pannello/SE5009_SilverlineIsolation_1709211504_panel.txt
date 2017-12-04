@@ -1,4 +1,5 @@
 Left Side (GOhm):
 1020
 Right Side (GOhm):
-1020humidity 44.6%
+1020
+humidity 44.6%

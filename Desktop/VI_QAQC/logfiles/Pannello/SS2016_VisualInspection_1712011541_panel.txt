@@ -1,0 +1,9 @@
+Missing Pillars:
+A+2: 2 + 3 in row 
+B+3: 1 missing pillar
+D+2: 2 missing pillars
+D+1: 11 missing pillars in row (repaired withb kapton discs)
+C-1: 1 missing pillar
+A-3: 2 missing pillars
+Other Problems:
+

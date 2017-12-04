@@ -1,0 +1,8 @@
+Meas1 (GOhm):
+26.8
+Meas2 (GOhm):
+29.8
+Meas3 (GOhm):
+26.6
+Meas4 (GOhm):
+29Shifters: Gabri+Athina RH: 29%

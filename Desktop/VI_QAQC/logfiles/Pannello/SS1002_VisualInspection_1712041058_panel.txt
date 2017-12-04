@@ -1,0 +1,5 @@
+Missing Pillars:
+Missing pillars from PCB inspection confirmed
+B-1: 1 more missing pillar
+Other Problems:
+

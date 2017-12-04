@@ -1,0 +1,21 @@
+Missing Pillars:
+Before washing:
+D2: 1 missing pillar
+D-1:  1 missing pillar
+D-4:  1 missing pillar
+
+After washing before roller:
+C-2: 1 missing pillar
+B-1: 1 missing pillar
+D1: 3 in row (close to edge, close to other row)
+C1: 1 missing pillar
+B2: 1 missing pillar
+B1: 1 missing pillar
+A2: 1 + 1 missing pillar
+A1: 1 missing pillar
+A3: 1 +  1 + 1 (all close to edge, close to other row)
+A4: 1 missing pillar (close to edge with coverlay)
+
+
+Other Problems:
+Osservata macchia di sapone/sale, da rilavare

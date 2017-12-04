@@ -1,0 +1,9 @@
+Meas1 (GOhm):
+33.2
+Meas2 (GOhm):
+39.8
+Meas3 (GOhm):
+42.6
+Meas4 (GOhm):
+36.2
+at test time 23% humidity. Between 20% and 30% in last days

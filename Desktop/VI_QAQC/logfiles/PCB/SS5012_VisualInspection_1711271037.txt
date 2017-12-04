@@ -1,0 +1,16 @@
+Missing Pillars:
+On report:
+2 missing pillars (C-4, C+1)
+
+Before washing:
+- many bubbles on the kapton region A
+- D: missing almost the whole line of pillars, close to the edge (the second line is present): pillar line inclined
+- C-4 1 missing
+- C+1 1 missing
+
+After wahing:
+- confirmed pre-washing
+- A-2:  3 missing pillars
+
+Other Problems:
+D-5: salt residual (cleaned with alcohol)

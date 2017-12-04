@@ -1,0 +1,26 @@
+Missing Pillars:
+Before washing:
+C-1: 1 missing pillar
+C-2: 1 missing pillar
+C+1: 2 missing pillars
+B-1: 1 missing pillar
+B+1: 1 missing pillar
+
+After washing before roller:
+C-1: confirmed
+C-2: confirmed
+B-1: confirmed
+C+1: confirmed
+B+1: confirmed
+
+After roller:
+Started losing pillars while the PCBs were resting on the rubber table after being measured:
+A-3: 4 missing pillars in series
+D-2: 2 missing pillars in series
+
+Other Problems:
+CERN:
+Interrupted Cu strips repared at CERN
+
+Before washing:
+Pillars non-parallel

@@ -1,0 +1,5 @@
+Left Side (MOhm):
+P1: 1.7 P2: 0.8 P3: 0.9 P4: 1.7 P5: 2.1
+Right Side (MOhm):
+P1: 1.2 P2: 1.1 P3: 1.0 P4: 1.0 P5: 1.5
+Athina+Giulia

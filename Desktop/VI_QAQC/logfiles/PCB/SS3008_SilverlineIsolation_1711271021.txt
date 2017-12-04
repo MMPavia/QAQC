@@ -1,0 +1,5 @@
+Left Side (GOhm):
+1000
+Right Side (GOhm):
+1000
+at test time 23% humidity. Between 20% and 30% in last days

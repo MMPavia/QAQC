@@ -1,0 +1,5 @@
+Total Missing Pillars: 4
+Contiguous? NO
+Resistive strip resistance? YES
+Silverline Isolation? YES
+Isolation Cu vs. Resistive strips? YES
