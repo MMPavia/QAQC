@@ -1,0 +1,9 @@
+Meas1 (GOhm):
+27.4
+Meas2 (GOhm):
+27.8
+Meas3 (GOhm):
+29
+Meas4 (GOhm):
+24.4RH 31.8%
+Shifters: Athina, Lorenzo

@@ -2,4 +2,4 @@ Missing Pillars:
 Missing pillars from PCB inspection confirmed
 B-1: 1 more missing pillar
 Other Problems:
-
+On left side coverlay border, a small part of the coverlay is lifted but will be closed with the stuccattura

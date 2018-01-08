@@ -1,0 +1,8 @@
+PCB internal:
+1.36 nA
+PCB intermediate:
+4.78 nA
+PCB external:
+4.16 nA
+RH 30%
+Shifters: Athina

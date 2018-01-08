@@ -1,0 +1,9 @@
+Meas1 (GOhm):
+48.8
+Meas2 (GOhm):
+56.0
+Meas3 (GOhm):
+53.0
+Meas4 (GOhm):
+62.0humidity around 30%
+Shifters: Gabriella

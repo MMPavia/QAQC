@@ -1,0 +1,8 @@
+PCB internal:
+9.70
+PCB intermediate:
+1.8
+PCB external:
+
+RH 30%
+Shifters: Athina Lorenzo

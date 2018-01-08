@@ -1,0 +1,6 @@
+Left Side (MOhm):
+1 1 1 1 1
+Right Side (MOhm):
+1 1 1 1 1
+Prova
+Shifters: Athina

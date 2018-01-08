@@ -1,0 +1,6 @@
+Left Side (GOhm):
+1000
+Right Side (GOhm):
+1000
+humidity around 30%
+Shifters: gabriella

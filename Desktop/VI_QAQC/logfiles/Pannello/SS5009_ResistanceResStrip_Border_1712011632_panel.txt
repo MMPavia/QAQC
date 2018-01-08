@@ -1,5 +1,6 @@
 Left Side (MOhm):
-P1:  P2:  P3:  P4:  P5: 
+P1:  P2: 0.8  P3: 0.7  P4: 0.7 P5: 0.7
 Right Side (MOhm):
 P1: 0.8 P2: 0.8 P3: 0.6 P4: 0.8 P5: 1.7
 Shifters: Athina+Giulia
+ 
